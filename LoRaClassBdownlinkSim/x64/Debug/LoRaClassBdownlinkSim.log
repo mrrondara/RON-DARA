@@ -1,0 +1,6 @@
+﻿  MainSource.cpp
+d:\leechanjae_files\[1] research\[4] lora(2017)_on going\[5] simulation\[1] simulation programs\loraclassbdownlinksim_cjlee_180224\loraclassbdownlinksim\nodefunc.h(82): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\leechanjae_files\[1] research\[4] lora(2017)_on going\[5] simulation\[1] simulation programs\loraclassbdownlinksim_cjlee_180224\loraclassbdownlinksim\nodefunc.h(136): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\leechanjae_files\[1] research\[4] lora(2017)_on going\[5] simulation\[1] simulation programs\loraclassbdownlinksim_cjlee_180224\loraclassbdownlinksim\nodefunc.h(222): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\leechanjae_files\[1] research\[4] lora(2017)_on going\[5] simulation\[1] simulation programs\loraclassbdownlinksim_cjlee_180224\loraclassbdownlinksim\nodefunc.h(270): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  LoRaClassBdownlinkSim.vcxproj -> D:\LEECHANJAE_files\[1] Research\[4] LoRa(2017)_ON GOING\[5] Simulation\[1] Simulation Programs\LoRaClassBdownlinkSim_CJLEE_180224\x64\Debug\LoRaClassBdownlinkSim.exe
